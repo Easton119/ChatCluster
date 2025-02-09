@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "functional": "cpp",
+        "iostream": "cpp",
+        "sstream": "cpp",
+        "tuple": "cpp",
+        "string": "cpp",
+        "stdexcept": "cpp",
+        "typeinfo": "cpp"
+    }
+}

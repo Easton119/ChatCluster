@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/qyj/Documents/code/chat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/qyj/Documents/code/chat/include -I/home/qyj/Documents/code/chat/include/server -I/home/qyj/Documents/code/chat/include/server/db -I/home/qyj/Documents/code/chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/qyj/Documents/code/chat/src/server/chatserver.cpp",
+  "file": "/home/qyj/Documents/code/chat/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/qyj/Documents/code/chat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/qyj/Documents/code/chat/include -I/home/qyj/Documents/code/chat/include/server -I/home/qyj/Documents/code/chat/include/server/db -I/home/qyj/Documents/code/chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/qyj/Documents/code/chat/src/server/chatservice.cpp",
+  "file": "/home/qyj/Documents/code/chat/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/qyj/Documents/code/chat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/qyj/Documents/code/chat/include -I/home/qyj/Documents/code/chat/include/server -I/home/qyj/Documents/code/chat/include/server/db -I/home/qyj/Documents/code/chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/qyj/Documents/code/chat/src/server/main.cpp",
+  "file": "/home/qyj/Documents/code/chat/src/server/main.cpp"
+},
+{
+  "directory": "/home/qyj/Documents/code/chat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/qyj/Documents/code/chat/include -I/home/qyj/Documents/code/chat/include/server -I/home/qyj/Documents/code/chat/include/server/db -I/home/qyj/Documents/code/chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/offlinemessagemodel.cpp.o -c /home/qyj/Documents/code/chat/src/server/offlinemessagemodel.cpp",
+  "file": "/home/qyj/Documents/code/chat/src/server/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/qyj/Documents/code/chat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/qyj/Documents/code/chat/include -I/home/qyj/Documents/code/chat/include/server -I/home/qyj/Documents/code/chat/include/server/db -I/home/qyj/Documents/code/chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/usermodel.cpp.o -c /home/qyj/Documents/code/chat/src/server/usermodel.cpp",
+  "file": "/home/qyj/Documents/code/chat/src/server/usermodel.cpp"
+},
+{
+  "directory": "/home/qyj/Documents/code/chat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/qyj/Documents/code/chat/include -I/home/qyj/Documents/code/chat/include/server -I/home/qyj/Documents/code/chat/include/server/db -I/home/qyj/Documents/code/chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/qyj/Documents/code/chat/src/server/db/db.cpp",
+  "file": "/home/qyj/Documents/code/chat/src/server/db/db.cpp"
+}
+]
